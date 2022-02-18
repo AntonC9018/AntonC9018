@@ -20,14 +20,14 @@ Don't hesitate to contact me.
 
 ## Projects
 
-I'm currently working on improving the JCLI library for the D programming language, conceived and developed by its author [BradleyChatha](https://github.com/BradleyChatha).
+I'm currently working on improving the **JCLI library** for the D programming language, conceived and developed by its author [BradleyChatha](https://github.com/BradleyChatha).
 Its main goal is to allow the consumers to easily develop command-line applications in D.
 It allows parsing command-line arguments, automatically converting to the corresponding user types, automatically generates the help message from the user-defined attributes, and much more!
 It makes extensive use of compile-time introspection features of D to achieve a declarative and easy-to-use API, with a modular design.
 
 [![JCLI](https://github-readme-stats.vercel.app/api/pin/?username=BradleyChatha&repo=JCLI&show_icons=true&theme=dark)](https://github.com/BradleyChatha/JCLI)
 
-I'm also developing a C# plugin-based Roslyn code generator, Kari.
+I'm also developing a C# plugin-based Roslyn code generator, **Kari**.
 It can seemlessly integrate with any C# project of any version, including Unity projects, and would generate code, obtained by analyzing the consumer code, using the Roslyn API's.
 This allows creating awesome declarative API's and eliminates a lot of boilerplate.
 I has been initially developed for a game that I with my colleague have been working on.
@@ -42,13 +42,13 @@ The game itself is a strategy game unrolling on a hexagonal grid, which even tho
 [![A particular project](https://github-readme-stats.vercel.app/api/pin/?username=AntonC9018&repo=a-particular-project&show_icons=true&theme=dark)](https://github.com/AntonC9018/a-particular-project)
 
 
-A somewhat abandoned project that I definitely plan to return to at some point is my Crypt of the Necrodancer clone, Hopper, developed with modding at high priority.
+A somewhat abandoned project that I definitely plan to return to at some point is my Crypt of the Necrodancer clone, **Hopper**, developed with modding at high priority.
 It features a custom object-oriented entity component system (aka the actor-behavior model) with a custom code generator.
 Once I know better how an ECS should actually be implemented (sparse sets/archetypes), and will have tried to do one myself, I'll return to this project.
 
 [![Hopper](https://github-readme-stats.vercel.app/api/pin/?username=AntonC9018&repo=hopper.cs&show_icons=true&theme=dark)](https://github.com/AntonC9018/hopper.cs)
 
-At last, I'd like to share my code-based tool for studying shaders, developed in D.
+At last, I'd like to share my **code-based tool for studying shaders**, developed in D.
 The goal is to be able to quickly experiment with shaders, with hotreload of shader code and with automatically generated sliders and input boxes for the uniforms, through a lightweight declarative API.
 
 [![Hopper](https://github-readme-stats.vercel.app/api/pin/?username=AntonC9018&repo=shader_playground&show_icons=true&theme=dark)](https://github.com/AntonC9018/shader_playground)
