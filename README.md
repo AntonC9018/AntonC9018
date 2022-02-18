@@ -1,7 +1,7 @@
 
 ## Hello there, welcome to my GitHub!
 
-My name is Curmanschii Anton, I'm a (mostly) self-taught programmer, a couple of months away from getting a CS degree.
+My name is Anton Curmanschii, I'm a (mostly) self-taught programmer, a couple of months away from getting a CS degree.
 I have programmed almost every day for the past 3 years in my free time, as well as at university.
 I like developing games, tools and libraries, and contributing to open-source projects when I feel like it will benefit me or the community.
 
