@@ -22,21 +22,21 @@ Don't hesitate to contact me.
 
 I'm currently working on improving the **JCLI library** for the D programming language, conceived and developed by its author [BradleyChatha](https://github.com/BradleyChatha).
 Its main goal is to allow the consumers to easily develop command-line applications in D.
-It allows parsing command-line arguments, automatically converting to the corresponding user types, automatically generates the help message from the user-defined attributes, and much more!
+It allows parsing command-line arguments, automatically converting to the corresponding user types, automatically generating the help message from the user-defined attributes, and much more!
 It makes extensive use of compile-time introspection features of D to achieve a declarative and easy-to-use API, with a modular design.
 
 [![JCLI](https://github-readme-stats.vercel.app/api/pin/?username=BradleyChatha&repo=JCLI&show_icons=true&theme=dark)](https://github.com/BradleyChatha/JCLI)
 
 I'm also developing a C# plugin-based Roslyn code generator, **Kari**.
-It can seemlessly integrate with any C# project of any version, including Unity projects, and would generate code, obtained by analyzing the consumer code, using the Roslyn API's.
+It can seemlessly integrate with any C# project of any version, including Unity projects, and would generate code, obtained by analyzing the input source files, using the Roslyn API's.
 This allows creating awesome declarative API's and eliminates a lot of boilerplate.
 I has been initially developed for a game that I with my colleague have been working on.
 
 [![Kari](https://github-readme-stats.vercel.app/api/pin/?username=AntonC9018&repo=Kari&show_icons=true&theme=dark)](https://github.com/AntonC9018/Kari)
 
-Here's the game template that we have been setting up.
+Here's the game template just mentioned that we have been setting up.
 It's a Unity project.
-I has its own Python dev CLI, which I'm planning to rewrite in D; Kari setup; an ingame command terminal, based on [stillwater's work](https://github.com/stillwwater/command_terminal), but almost completely rewritten, integrating with Kari; the Unity code is asmdef-based and as modular as it gets.
+I has its own Python dev CLI, which I'm planning to rewrite in D; Kari setup; an in-game command terminal, based on [stillwater's work](https://github.com/stillwwater/command_terminal), but almost completely rewritten, integrating with Kari; the Unity code is asmdef-based and as modular as it gets.
 The game itself is a strategy game unrolling on a hexagonal grid, which even though I have only started implementing it.
 
 [![A particular project](https://github-readme-stats.vercel.app/api/pin/?username=AntonC9018&repo=a-particular-project&show_icons=true&theme=dark)](https://github.com/AntonC9018/a-particular-project)
@@ -53,7 +53,7 @@ The goal is to be able to quickly experiment with shaders, with hotreload of sha
 
 [![Hopper](https://github-readme-stats.vercel.app/api/pin/?username=AntonC9018&repo=shader_playground&show_icons=true&theme=dark)](https://github.com/AntonC9018/shader_playground)
 
-
+There are many more projects, including visualizations, game and web dev, and just random experiments, as well as most of the university assignments (there are some interesting projects among those too).
 
 ---
 
