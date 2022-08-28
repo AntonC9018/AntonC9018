@@ -2,7 +2,7 @@
 ## Hello there, welcome to my GitHub!
 
 My name is Anton Curmanschii, I'm an intelligent and competent programmer, CS undergraduate.
-I have programmed almost every day for the past 3 years in my free time, as well as at university.
+I have programmed almost every day for the past 4 years, either in my free time, or at university.
 I like developing games, tools and libraries, and contributing to open-source projects when I feel like it will benefit me or the community.
 
 Lately, I've been making a game in Unity, while developing a GPRC game server for it on ASP.NET Core, and maintaining a custom CLI tool for managing the complexity of the project.
