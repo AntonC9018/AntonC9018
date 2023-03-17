@@ -10,9 +10,6 @@ Recently, I've been learning ASP.NET Core, EF Core and other miscellanious frame
 
 ## Contact
 
-I'm currently open for any job offers!
-Don't hesitate to contact me.
-
 - Email: [anton.curm@gmail.com](mailto:anton.curm@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/anton-curmanschii-647232161/
 - Discord: Either DM me at *AntonC#3545*. You can also ping me on the [D Server](https://discord.gg/3Ms3D2AdtF) or the [C# Server](https://discord.com/invite/csharp)
