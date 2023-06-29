@@ -1,11 +1,11 @@
 
 ## Hello there, welcome to my GitHub!
 
-My name is Anton Curmanschii, I'm an intelligent and competent programmer, CS undergraduate, doing my 1st year masters.
+My name is Anton Curmanschii, I'm an intelligent and competent programmer, CS undergraduate, doing my 2тв year masters.
 I have programmed almost every day for the past 5 years, either in my free time, or at university.
 I like developing games, tools and libraries, and contributing to open-source projects when I feel like it will benefit me or the community.
 
-Recently, I've been learning ASP.NET Core, EF Core and other miscellanious frameworks and libraries by making an [e-commerce / postings app](https://github.com/AntonC9018/49). 
+I work full time on the backend for [this](https://flowqe.com/) app.
 
 
 ## Contact
@@ -59,19 +59,3 @@ There are many more projects, including [visualizations](https://github.com/Anto
 ---
 
 [![AntonC9018's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonC9018&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**AntonC9018/AntonC9018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
