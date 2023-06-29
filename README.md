@@ -7,6 +7,8 @@ I like developing games, tools and libraries, and contributing to open-source pr
 
 I work full time on the backend for [this](https://flowqe.com/) app.
 
+To the university assignments, see [my google drive](https://drive.google.com/drive/u/0/folders/1Rs0-qy6ivSDuHh5JadrP4Ta4YDhuVRiC).
+
 
 ## Contact
 
