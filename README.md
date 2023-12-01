@@ -5,7 +5,7 @@ My name is Anton Curmanschii, I'm an intelligent and competent programmer, CS un
 I have programmed almost every day for the past 5 years, either in my free time, or at university.
 I like developing games, tools and libraries, and contributing to open-source projects when I feel like it will benefit me or the community.
 
-I work full time on the backend for [this](https://flowqe.com/) app.
+I work [here]([https://flowqe.com/](https://github.com/ChilliCream).
 
 To the university assignments, see [my google drive](https://drive.google.com/drive/u/0/folders/1Rs0-qy6ivSDuHh5JadrP4Ta4YDhuVRiC).
 
