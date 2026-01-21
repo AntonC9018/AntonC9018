@@ -1,7 +1,7 @@
 
 ## Hello there, welcome to my GitHub!
 
-My name is Anton Curmanschii, I'm an intelligent and competent programmer, CS masters.
+My name is Anton Curmanschii, I'm a programmer.
 
 For the university assignments, see [my google drive](https://drive.google.com/drive/u/0/folders/1Rs0-qy6ivSDuHh5JadrP4Ta4YDhuVRiC).
 
@@ -10,7 +10,6 @@ For the university assignments, see [my google drive](https://drive.google.com/d
 
 - Email: [anton.curm@gmail.com](mailto:anton.curm@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/anton-curmanschii-647232161/
-- Discord: DM me at *antoncurm*
 
 ---
 
