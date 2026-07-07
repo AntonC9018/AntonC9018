@@ -10,4 +10,5 @@ For the university assignments, see [my google drive](https://drive.google.com/d
 
 - Email: [anton.curm@gmail.com](mailto:anton.curm@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/anton-curmanschii-647232161/
+- YouTube: https://www.youtube.com/@antonofka9018
 
